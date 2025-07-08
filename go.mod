@@ -1,4 +1,4 @@
-module github.com/aerokube/selenoid-ui
+module github.com/Dmitry112233/selenoid-ui
 
 go 1.20
 
